@@ -1,0 +1,4 @@
+# from inside your mysite folder
+echo "3.4.3" > .ruby-version
+git add .ruby-version
+git commit -m "Specify Ruby version for LSP"
