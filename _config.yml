@@ -54,11 +54,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 # at the end of _config.yml
-
-defaults:
-  -
-    scope:
-      path: ""     # all files
-    values:
-      CMS_CONFIG: !include admin/config.yml
-
