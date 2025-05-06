@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to MySite"
+title: "Welcome to Axiom-Web"
 ---
 
 # Welcome!
