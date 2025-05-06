@@ -5,7 +5,7 @@ title: "Welcome to Axiom-Web"
 
 # Welcome!
 
-Thanks for stopping by. This is the homepage of the most famous **MySite**, built with Jekyll + GitHub Pages.
+Thanks for stopping by. This is the homepage of the most famous **Axiom**, built with Jekyll + GitHub Pages.
 
 Here are a few things you can do next:
 
